@@ -1,0 +1,25 @@
+{
+  "name": "mocha-chai",
+  "version": "1.0.0",
+  "description": "unit test with mocks, stubs and spy.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.1",
+    "sinon": "^3.2.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "unit",
+    "tests"
+  ],
+  "author": "tiago oliveira",
+  "license": "ISC"
+}
